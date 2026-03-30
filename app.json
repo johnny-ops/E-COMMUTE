@@ -15,7 +15,7 @@
       [
         "expo-location",
         {
-          "locationAlwaysAndWhenInUsePermission": "Allow Commute Helper to use your location for finding nearby terminals and routes."
+          "locationAlwaysAndWhenInUsePermission": "Allow E-COMMUTE MO! to use your location for finding nearby terminals and routes."
         }
       ]
     ],
